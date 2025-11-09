@@ -11,3 +11,9 @@
 - Synchron Pianos YAMAHA CFX
 - iZotope Ozone 12 EQ
 - Voicemeeter Banana
+
+# Decipher Progress
+- Backside of Credit: Done
+- In front of History: Done
+- Achievements: Not Yet (Help me)
+- [Threds](https://steamcommunity.com/app/746710/discussions/0/3158631000001688489/): Not Yet
