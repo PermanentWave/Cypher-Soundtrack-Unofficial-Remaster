@@ -12,6 +12,9 @@
 - iZotope Ozone 12 EQ
 - Voicemeeter Banana
 
+# Licence
+- [CC-BY-SA DE](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
+
 # Decipher Progress
 - Backside of Credit: Done
 - In front of History: Done
